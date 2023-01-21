@@ -1,6 +1,6 @@
 # Web Scraping a Twitter
 
-Para este proyecto se utilizó Python con la libreria Selenium para extraer información de Twitter y para eso se requirió de 2 archivos, el primero sirve para iniciar sesión en Twitter (se debe preestablecer las variables de entorno para almacenar las credenciasles) y el segundo para obtener información como el nombre usuario y el comentario de cada tweet (es recomendable buscar un tweet que no tenga miles de tweets o comentarios por cuestion de aprendizaje).
+Para este proyecto se utilizó Python con la libreria Selenium para extraer información de Twitter y para eso se requirió de 2 archivos, el primero (T1.py) sirve para iniciar sesión en Twitter (se debe preestablecer las variables de entorno para almacenar las credenciasles) y el segundo (T2.py) para obtener información como el nombre usuario y el comentario de cada tweet (es recomendable buscar un tweet que no tenga miles de tweets o comentarios por cuestion de aprendizaje).
 
 Ademas sientase libre de reemplazar el tweet principal a seleccionar colocando otro enlace.
 
