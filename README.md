@@ -6,7 +6,7 @@ Ademas sientase libre de reemplazar el tweet principal a seleccionar colocando o
 
 Cabe recalcar que el uso de inicio de sesión mediante Web Scraping NO es una buena práctica por lo que solo se debe limitar su uso a motivos de educación y casos delicados.
 
-La ejecuci
+La ejecución de los archivos es independiente uno del otro.
 
 ### Pasos para iniciar el proyecto
 
